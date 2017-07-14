@@ -10,6 +10,7 @@
   "dependencies": {
     "express": "^4.15.3",
     "githubhook": "^1.7.1",
-    "mocha": "^3.4.2"
+    "mocha": "^3.4.2",
+    "octonode": "^0.7.13"
   }
 }
