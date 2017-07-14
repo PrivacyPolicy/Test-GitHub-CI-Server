@@ -1,0 +1,15 @@
+{
+  "name": "Test-GitHub-CI-Server",
+  "description": "Test GitHub's Status API for continuous Integration",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "githubhook": "^1.7.1",
+    "mocha": "^3.4.2"
+  }
+}
